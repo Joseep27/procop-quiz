@@ -1,0 +1,4 @@
+project_id = "procop-quiz"
+[functions.sync-sheets]
+# Auth is verified explicitly with auth.getUser inside the function, supporting current signing keys.
+verify_jwt = false

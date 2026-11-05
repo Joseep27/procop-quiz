@@ -1,0 +1,450 @@
+[
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "Es imprescindible hacer una correcta identificación del vehiculo para poder determinar la metodología correcta y aplicar las medidas de protección oportunas.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "En el Caso 2, siempre que sea posible, es aconsejable mantener un perímetro de seguridad de unos 50 mts.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "En el caso 2 las instalaciones de ataque serán de Ø 45, saliendo desde la toma de baja presión con mangaje de Ø 70 hasta la bifurcación 70/45.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "En el caso 2 realizaremos la aproximación al vehiculo con las lanzas abiertas y un caudal en torno a los 250 litros/min., (habrá que tener en cuenta la autonomía de la cisterna).",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "En el caso 2, puede ser recomendable en la fase final del incendio, cuando la carga térmica disminuya, emplear instalaciones de Ø 25 mm.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "En el caso de que el incendio sea en vehículos que usan hidrocarburos gaseosos (GLP o GNC) los depósitos de gas deben ser enfriados durante el incendio.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 7,
+    "apartado": "5.5",
+    "texto_literal": "En las instalaciones hidráulicas de extinción con espuma, el conductor deberá asegurarse de que el tanque no se llene de mezcla espumante, para lo cual deberá cerciorarse de que la llave de retorno a tanque (sifón) se encuentra cerrada antes de abrir el paso del espumógeno al cuerpo de bomba.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 8,
+    "apartado": "5.5",
+    "texto_literal": "Tras el trabajo con espuma deberemos proceder a la limpieza de restos de mezcla espumante en los equipos y materiales utilizados (bomba, mangaje, etc.).",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "PT",
+    "numero": 9,
+    "apartado": "5.5",
+    "texto_literal": "En las instalaciones hidráulicas de extinción con espuma, usaremos preferentemente el espumógeno AFFF, especialmente ante derrames de combustible.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 11,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "Se deben usar los equipos de protección individual de manera adecuada.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Se deben señalizar y balizar las zonas de trabajo, las cuales estarán protegidas por el vehículo de bomberos cuando se desarrollen sobre la calzada.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "Hay que prestar atención con la activación de airbags durante la extinción, puede producirse activación/explosión de alguno.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "Debemos ser cuidadosos con el uso del agua en zonas con presencia de ciertos metales como el magnesio, el aluminio o el litio, ya que pueden reaccionar violentamente con el agua.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 5,
+    "apartado": "6.2",
+    "texto_literal": "La aproximación a los vehículos deberá hacerse siguiendo la línea de 45º del eje longitudinal del vehiculo, ya que se pueden producir proyecciones violentas de material, por lo que las zonas peligrosas donde se debe evitar permanecer son la parte delantera y la parte trasera de el eje longitudinal del vehículo.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 6,
+    "apartado": "6.2",
+    "texto_literal": "En el caso de vehículos híbridos o eléctricos debemos prestar atención a las zonas con corriente de Alta Tensión (zona motor, cables naranja, batería A.T.) ya que pueden llegar hasta los 750v.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 7,
+    "apartado": "6.2",
+    "texto_literal": "En el caso de que el incendio sea en vehículos que usan hidrocarburos gaseosos (GNL o GNC) los depósitos de gas deben ser enfriados durante el incendio.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 8,
+    "apartado": "6.2",
+    "texto_literal": "La posible rotura del depósito de combustible podría causar un derrame, el cual podría repentinamente inflamarse, bien afectándonos directamente, bien propagando el incendio a otros vehículos.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.01",
+    "procop_nombre": "Incendio de vehículos en vía pública",
+    "tipo": "MS",
+    "numero": 9,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1.0 · Diciembre 2021",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.01 INTERVENCIÓN INCENDIOS EN VEHICULOS VÍA PÚBLICA.-V0.1.pdf",
+      "pagina": 13,
+      "sha256": "736323731e9716c155692eebe5d6ce827145e87f72df98acebd44d18d2970a00"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "Evitaremos, en la medida de lo posible, volcar y vaciar los contenedores.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 6,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "Como norma general se realizará instalación de tendido de manguera. En aquellos contenedores/papeleras de poca carga térmica, y a criterio del Cabo de la dotación, podrá emplearse el carrete de pronto socorro.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 7,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "Especial precaución en los incendios de contenedores plásticos por posible reacción con el agua. Respetar especialmente distancia de seguridad en el inicio de la intervención.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 7,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "En el caso de que el contenedor sea de papel, de obra, y otros donde podamos preveer que solo con el uso de agua como agente extintor la extinción no va a ser efectiva, usaremos espuma para extinguir el incendio.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 7,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "En las instalaciones hidráulicas de extinción con espuma, el conductor deberá asegurarse de que el tanque no se llene de mezcla espumante, para lo cual deberá cerciorarse de que la llave de retorno a tanque (sifón) se encuentra cerrada antes de abrir el paso del espumógeno al cuerpo de bomba.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 7,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "Tras el trabajo con espuma deberemos proceder a la limpieza de restos de mezcla espumante en los equipos y materiales utilizados (bomba, mangaje, etc.)",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 7,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "Se deben usar los equipos de protección individual de manera adecuada.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 8,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Se deben señalizar y balizar las zonas de trabajo, las cuales estarán protegidas por el vehículo de bomberos cuando se desarrollen sobre la calzada.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 8,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 8,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.02",
+    "procop_nombre": "Incendio de contenedores",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "Se tratará de exponer a posible contaminación el menor número de trajes de intervención posible, por lo que en caso de haber dos equipos, y sólo uno de ellos esté trabajando, el otro equipo permanecerá en la zona templada esperando órdenes.",
+    "version_documento": "1 · Diciembre 2020",
+    "revision": "2026-11-05.1",
+    "fuente": {
+      "archivo": "PROCOP 1.02 INCENDIOS EN CONTENEDORES Y ENSERES EN VÍA PÚBLICA.pdf",
+      "pagina": 8,
+      "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
+    },
+    "activo": true
+  }
+]

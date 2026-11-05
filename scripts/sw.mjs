@@ -1,0 +1,14 @@
+import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { createHash } from 'node:crypto';
+const assets=(await readdir('dist/assets')).map(f=>'./assets/'+f);
+const html=await readFile('dist/index.html','utf8');
+const version=createHash('sha256').update(html).digest('hex').slice(0,12);
+await writeFile('dist/sw.js',`const CACHE='procop-${version}';
+const ASSETS=['./','./index.html','./icon.svg',${assets.map(x=>JSON.stringify(x)).join(',')}];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('procop-')&&k!==CACHE).map(k=>caches.delete(k))))));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;
+ const path=new URL(e.request.url).pathname;
+ if(path.endsWith('/sw.js'))return;
+ e.respondWith(caches.match(e.request).then(cached=>cached||fetch(e.request)));});
+`);
