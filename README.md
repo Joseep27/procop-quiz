@@ -213,3 +213,11 @@ tests/                           Tests automatizados
 - [GitHub Pages: workflows personalizados](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
 
 Este cuaderno es una herramienta personal de estudio, no sustituye el procedimiento oficial ni sus actualizaciones. Revisa cada revisión nueva contra su PDF antes de importarla.
+
+Para comprobar los tipos del servidor (opcional, necesita Deno y las dependencias de desarrollo instaladas):
+
+```bash
+npx deno check --node-modules-dir=manual --no-remote --no-lock supabase/functions/sync-sheets/index.ts
+```
+
+Véase `docs/VERIFICACION.md` para los resultados comprobados y los límites de validación.
