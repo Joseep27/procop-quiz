@@ -1,6 +1,6 @@
 import { describe,it,expect } from 'vitest';
 import { attempt,bank,q } from './fixtures';
-import { crearCola,diaMadrid,erroresFrecuentes,intentoCuentaPara,progreso,resumenDiario } from '../src/core/stats';
+import { crearCola,diaMadrid,erroresFrecuentes,intentoCuentaPara,progreso,resumenBanco,resumenDiario } from '../src/core/stats';
 import { corregir, otrasCoincidencias, questionKey, textoCompartido } from '../src/core/text';
 describe('estadísticas y espaciado',()=>{
  it('usa día de Madrid incluso cruzando medianoche UTC',()=>expect(diaMadrid('2026-11-01T23:30:00Z')).toBe('2026-11-02'));
@@ -49,6 +49,14 @@ describe('frases compartidas',()=>{
   expect(progreso(ms,records).consolidada).toBe(true);
   expect(progreso(archived,records).intentos).toBe(0);
   expect(resumenDiario(records).reduce((n,row)=>n+row.intentos,0)).toBe(3);
+  const now=Date.parse('2026-11-06');
+  expect(resumenBanco([pt,ms,archived],records,now)).toEqual({total:1,consolidadas:1,pendientes:0});
+ });
+
+ it('cuenta las frases del banco igual que la cola de estudio',()=>{
+  expect(resumenBanco(bank,[])).toEqual({total:75,consolidadas:0,pendientes:75});
+  const records=['2026-11-01','2026-11-02','2026-11-05'].map(day=>attempt(day,{},pt));
+  expect(resumenBanco([pt,ms],records,Date.parse('2026-11-06'))).toEqual({total:1,consolidadas:0,pendientes:1});
  });
 
  it('permite repasar un fallo compartido desde cualquiera de sus apartados',()=>{

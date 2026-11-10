@@ -19,6 +19,18 @@ export function progreso(q:Question,attempts:Attempt[],now=Date.now()){
  const due=lastDay?Date.parse(lastDay)+([0,1,3,7][level])*dayMs:0;
  return {intentos:all.length,dias,consolidada:level>=3,vence:due,pendiente:now>=due,ultima:last?.fecha,exactitud:last?.correccion.exactitud??0,fallada:!!last&&last.correccion.errores>0,fallos:all.filter(a=>a.correccion.errores>0).length};
 }
+export function resumenBanco(questions:Question[],attempts:Attempt[],now=Date.now()){
+ const frases=new Set<string>(),porConsolidar=new Set<string>(),pendientes=new Set<string>();
+ for(const q of questions){
+  if(!q.activo)continue;
+  const texto=textoCompartido(q);
+  const estado=progreso(q,attempts,now);
+  frases.add(texto);
+  if(!estado.consolidada)porConsolidar.add(texto);
+  if(estado.pendiente)pendientes.add(texto);
+ }
+ return {total:frases.size,consolidadas:frases.size-porConsolidar.size,pendientes:pendientes.size};
+}
 export function resumenDiario(attempts:Attempt[]){
  const groups=new Map<string,Attempt[]>();for(const a of attempts){const key=`${a.dia}|${a.pregunta.procop_id}|${a.pregunta.tipo}`;groups.set(key,[...(groups.get(key)||[]),a]);}
  return [...groups.entries()].sort(([a],[b])=>b.localeCompare(a)).map(([key,rows])=>{
