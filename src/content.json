@@ -446,5 +446,1189 @@
       "sha256": "32ff0dbd1faafcd30f775d56c1bea2b8aa0e6e0f215cc73455e1af3e88990218"
     },
     "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "El mando de la emergencia, mediante la reevaluación constante de los riesgos, podrá determinar las situaciones en las que se optará por una estrategia exclusivamente defensiva. Procediéndose únicamente al control de la evolución del siniestro, buscando la autoprotección del personal interviniente, y si la situación lo requiere, actuando sólo desde el exterior del establecimiento hasta mejora de la situación de riesgo.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "El acceso a la zona caliente se realizará siempre en equipos de al menos 2 bomberos.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "Se ubicarán los vehículos considerando la dirección e intensidad del viento. En la medida de lo posible siempre a favor de éste.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "Los vehículos de bomberos deberán guardar una distancia de seguridad a los establecimientos industriales, ante la posibilidad de una evolución imprevisible del incendio (Backdraft, explosión de gases de incendio, etc.), así como de posibles colapsos estructurales o derrumbes. Se recomienda guardar una distancia a fachada mínima de 1,5 veces la altura del muro de cerramiento, y en la medida de lo posible siguiendo la proyección de la línea a 45º desde la esquina de confluencia de los cerramientos.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "Dadas las grandes dimensiones y compleja configuración de algunos establecimientos industriales, es muy conveniente, si las circunstancias lo permiten, disponer en los primeros momentos de un sencillo croquis o plano proporcionado por vecinos o vigilantes, donde se reflejen los espacios más singulares del recinto, así como la posible ubicación de potenciales víctimas y del foco del incendio, aunque esto suponga perder unos minutos en la intervención.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "Se deberá recabar la mayor información posible sobre la actividad industrial desarrollada en el establecimiento, así como sobre la posible existencia de materiales tóxicos, explosivos, corrosivos, etc., que puedan requerir medidas de protección y métodos de extinción especiales.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 7,
+    "apartado": "5.5",
+    "texto_literal": "Se realizará una evaluación continua de la estructura del establecimiento origen del siniestro, así como de posibles instalaciones anexas afectadas, poniendo especial atención a la deformación en elementos estructurales que puedan servir de aviso previo a posible colapso. Especial cuidado con los cerramientos de paneles de hormigón prefabricados y anclajes metálicos.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 8,
+    "apartado": "5.5",
+    "texto_literal": "En aquellas situaciones en las que se presenten otros establecimientos adosados a la nave industrial origen del siniestro, se deberá poner especial atención en las paredes medianeras, empleando medios de control para evitar posible propagación a establecimientos anexos. Para ello se inspeccionarán las instalaciones y materiales combustibles del establecimiento colindante.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 15,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 9,
+    "apartado": "5.5",
+    "texto_literal": "Siempre y cuando la seguridad del personal interviniente lo permita y con la finalidad de controlar la carga térmica estructural, podrán realizarse aperturas en los cerramientos superiores, próximos a la vertical de los focos de incendio más potentes, que faciliten la evacuación de calor y humos, pudiendo ganar en visibilidad para realizar una intervención rápida y enérgica cuando se requiera.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 16,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 10,
+    "apartado": "5.5",
+    "texto_literal": "Cuando la localización del foco del incendio resultara compleja, la realización de butrones a baja altura en los cerramientos podría facilitar la labor.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 16,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 11,
+    "apartado": "5.5",
+    "texto_literal": "En espacios amplios sin visibilidad y baja temperatura (normalmente fuera del sector de incendio) pueden emplearse cuerdas guías como elemento para asegurar el retorno a un punto de origen o para la realización de barridos de rastreo para la búsqueda de víctimas, para lo cual también será aconsejable el uso del visor térmico.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 16,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "PT",
+    "numero": 12,
+    "apartado": "5.5",
+    "texto_literal": "Para facilitar el empleo de la ventilación táctica el equipo 2 del BUP bajará al suelo el ventilador previamente a la realización del resto de tareas encomendadas, pudiendo ser trasladado posteriormente por el BC hasta la ubicación que el Jefe de la intervención estime oportuno.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 16,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "El acceso a la zona caliente se realizará siempre en equipos de al menos 2 bomberos.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Moverse con cautela en el ambiente hostil del incendio.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "Utilizar los equipos de protección individual adecuados al entorno.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "No permanecer cerca de la fachada del establecimiento, ante la posibilidad de colapso estructural.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 5,
+    "apartado": "6.2",
+    "texto_literal": "No permanecer frente a aperturas en cerramientos por posible impacto de materiales ante proyecciones.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 6,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 7,
+    "apartado": "6.2",
+    "texto_literal": "El manejo de la bomba es responsabilidad del BC, por lo tanto todas las conexiones/desconexiones a la misma deben ser realizadas por él.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 8,
+    "apartado": "6.2",
+    "texto_literal": "Si el incendio presenta condiciones elevadas de temperatura y carga térmica el equipo que entra a extinguir accederá con la manguera presurizada y con el selector de la lanza al máximo de caudal.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 9,
+    "apartado": "6.2",
+    "texto_literal": "Se procederá con el corte de cualquier suministro que pueda suponer un riesgo añadido a la intervención (electricidad, gas, depósitos de combustible, etc.).",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 10,
+    "apartado": "6.2",
+    "texto_literal": "En casos de desorientación o extravío de algún equipo o miembro, se recomienda mantener la calma, buscar un punto de referencia identificable sin alejarse de la ubicación, comunicarse con el controlador, hacer señales con las linternas, activar la alarma de emergencia del bodyguard o cualquier otra medida que sirva para identificar la posición.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 11,
+    "apartado": "6.2",
+    "texto_literal": "Señalizar y balizar las zonas de trabajo.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.03",
+    "procop_nombre": "Incendios industriales",
+    "tipo": "MS",
+    "numero": 12,
+    "apartado": "6.2",
+    "texto_literal": "Prever hidratación continua dada la alta probabilidad de largos trabajos.",
+    "version_documento": "1.0 · Enero 2023",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-03-intervencion-en-incendios-industriales-1-pdf.pdf",
+      "pagina": 18,
+      "sha256": "9570fc3eb484604ed656ca8e4c95c0976ed14e85968378e0a6d65cb75bc798d8"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "Es aconsejable siempre que sea posible, una inspección anterior de algún local o vivienda de planta inferior que sea idéntico al afectado, a fin de facilitar un reconocimiento previo del local o vivienda afectada.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 13,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "El mando de la emergencia, valorará las circunstancias externas e internas que pudiesen generar una situación de incendio dominado por viento, para tomar las medidas adecuadas tanto de extinción como defensivas y de autoprotección del personal a su cargo, así como la movilización de más recursos.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 13,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "La ejecución del tramo de alimentación interior con la bolsa de instalación, en los casos en que sea posible, se realizará por el interior del ojo de la escalera, consiguiendo con ello utilizar menos tendido mangueras.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 13,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "Pautas para el equipo 1 de intervención: Antes de acceder. Instalación presurizada y purgada. Asegurar la entrada. Chequeo de la puerta de entrada, bien mediante pulverización en la parte alta, bien mediante palpación con el dorso de la mano y guantes en primera instancia. Observar los gases que salgan del incendio por los huecos, rendijas, ventanas (color, presión, pulsaciones). En el acceso: Abertura mínima de la puerta, observar condiciones del incendio. Proceder a la actuación según condiciones utilizando las técnicas de avance seguras.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 13,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "La apertura de la puerta de la azotea, en algunas ocasiones se podrá realizar forzándola desde la misma azotea, tras haber accedido a la misma por el VA.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 14,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "Para facilitar el empleo de la ventilación táctica el equipo 2 del BUP bajará al suelo el ventilador previamente a la realización del resto de tareas encomendadas, pudiendo ser trasladado posteriormente por el BC hasta la ubicación que el Jefe de la intervención estime oportuno.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 14,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "PT",
+    "numero": 7,
+    "apartado": "5.5",
+    "texto_literal": "Antes de realizar la ventilación de caja de escalera, recordar cerrar todas las puertas y huecos para que la expulsión de humo se realice por la salida elegida.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 14,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "Moverse con cautela en el ambiente hostil del incendio.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 15,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Utilizar los equipos de protección individual adecuados al entorno.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 15,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "No permanecer cerca de la fachada por debajo de ventanas y balcones de la planta siniestrada.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 15,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 15,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.05",
+    "procop_nombre": "Incendios en edificios de baja y media altura",
+    "tipo": "MS",
+    "numero": 5,
+    "apartado": "6.2",
+    "texto_literal": "El manejo de la bomba es responsabilidad del BC, por lo tanto todas las conexiones/desconexiones a la misma deben ser realizadas por él.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-05-incendio-en-edificios-de-baja-y-media-altura_v1-2-pdf.pdf",
+      "pagina": 15,
+      "sha256": "143348b0829f510be16e72b735130a3e27ddc6bc3f072900fa2dc2e02a77cd8b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "Es aconsejable siempre que sea posible, una inspección anterior de algún local o vivienda de planta inferior que sea idéntico al afectado, a fin de facilitar un reconocimiento previo del local o vivienda afectada.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 17,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "El mando de la emergencia, valorará las circunstancias externas e internas que pudiesen generar una situación de incendio dominado por viento, para tomar las medidas adecuadas tanto de extinción como defensivas y de autoprotección del personal a su cargo, así como la movilización de más recursos.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 17,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "La ejecución del tramo de alimentación interior con la bolsa de instalación, en los casos en que sea posible, se realizará por el interior del ojo de la escalera, consiguiendo con ello utilizar menos tendido mangueras.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 17,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "Antes de acceder. Instalación presurizada y purgada. Asegurar la entrada. Chequeo de la puerta de entrada, bien mediante pulverización en la parte alta, bien mediante palpación con el dorso de la mano y guantes en primera instancia. Observar los gases que salgan del incendio por los huecos, rendijas, ventanas (color, presión, pulsaciones).",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 17,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "En el acceso: Abertura mínima de la puerta, observar condiciones del incendio. Proceder a la actuación según condiciones utilizando las técnicas de avance seguras.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 18,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "La apertura de la puerta de la azotea, en algunas ocasiones se podrá realizar forzándola desde la misma azotea, tras haber accedido a la misma por el VA.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 18,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 7,
+    "apartado": "5.5",
+    "texto_literal": "Antes de realizar la ventilación de caja de escalera, recordar cerrar todas las puertas y huecos para que la expulsión de humo se realice por la salida elegida.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 18,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 8,
+    "apartado": "5.5",
+    "texto_literal": "Para facilitar el empleo de la ventilación táctica el equipo 2 del BUP bajará al suelo el ventilador previamente a la realización del resto de tareas encomendadas, pudiendo ser trasladado posteriormente por el BC hasta la ubicación que el Jefe de la intervención estime oportuno.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 18,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "PT",
+    "numero": 9,
+    "apartado": "5.5",
+    "texto_literal": "Se recomienda: Conocer los EGA más relevantes en cada zona y en función de las especificaciones, preparar una posible intervención con más detalle. Se adjunta un listado o ficha con elementos del edificio a tener en cuenta en los reconocimientos a los EGA: Altura. Accesos. Uso (Residencial vivienda, público, comercial, administrativo, etc.) Número y disposición de escaleras. Distribución constructiva de las plantas. Ascensores de emergencia y sistema de activación y funcionamiento. IPCI, etc.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 18,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "Moverse con cautela en el ambiente hostil del incendio.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Utilizar los equipos de protección individual adecuados al entorno.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "No permanecer cerca de la fachada por debajo de ventanas y balcones de la planta siniestrada.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 5,
+    "apartado": "6.2",
+    "texto_literal": "El manejo de la bomba es responsabilidad del BC, por lo tanto todas las conexiones/desconexiones a la misma deben ser realizadas por él.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.06",
+    "procop_nombre": "Incendios en edificios de gran altura (EGA)",
+    "tipo": "MS",
+    "numero": 6,
+    "apartado": "6.2",
+    "texto_literal": "Los modos repetidor y pasarela en las comunicaciones por emisora son incompatibles, con lo que si se requiere la activación de un terminal en modo repetidor debe desactivarse el modo pasarela de la emisora del vehículo autobomba que esté realizándola.",
+    "version_documento": "1.2 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-06-intervencion-en-incendios-en-ega_v1-2-pdf.pdf",
+      "pagina": 20,
+      "sha256": "deb9cb0e772fb12c906fa08cd54b7a3da21246ff099d21fd09052610dd78fa2b"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 1,
+    "apartado": "5.5",
+    "texto_literal": "Los vehículos de bomberos no deben estacionarse frente a los bajos comerciales origen del servicio, en previsión de una evolución imprevisible del incendio (Backdraft, explosión de gases de incendio, etc.).",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 2,
+    "apartado": "5.5",
+    "texto_literal": "Dadas las grandes dimensiones de algunos locales y la escasa visibilidad, es muy conveniente disponer en los primeros momentos de un sencillo croquis o plano proporcionado por vecinos o vigilantes, donde se reflejen las escaleras, ascensores, fosos, etc. así como la posible situación de personas y del foco del incendio, aunque esto suponga perder unos minutos en la intervención.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 3,
+    "apartado": "5.5",
+    "texto_literal": "Es aconsejable siempre que sea posible, una inspección anterior de algún local o planta que sea idéntica a la afectada, a fin de facilitar un reconocimiento previo.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 4,
+    "apartado": "5.5",
+    "texto_literal": "En los casos de garajes de varias plantas, si en las inferiores no hay humo se podrá utilizar la disposición de dicha planta para elaborar un croquis de la planta del siniestro.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 5,
+    "apartado": "5.5",
+    "texto_literal": "Se aconseja desplazarse por las calles interiores del propio garaje, por ser más amplias y estar libres de obstáculos.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 6,
+    "apartado": "5.5",
+    "texto_literal": "En los casos de garajes de varias plantas en los que no se sepa de antemano la planta del incendio, primero se inspeccionarán las plantas más bajas y si no se localiza el incendio se continuará por la inmediatamente superior y así sucesivamente hasta su localización.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 7,
+    "apartado": "5.5",
+    "texto_literal": "En garajes subterráneos con acceso por escalera protegida o especialmente protegida, se podrá ubicar el puesto base en el rellano de esta escalera cerca de la puerta o del vestíbulo anterior de acceso a la planta del siniestro.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 8,
+    "apartado": "5.5",
+    "texto_literal": "En los garajes donde se localice alguna BIE, se podrá utilizar como primer ataque a expensas de que garantice caudal suficiente para continuar con la extinción.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 9,
+    "apartado": "5.5",
+    "texto_literal": "Es muy aconsejable colocar focos de iluminación cerca de la entrada de acceso de los equipos al área caliente, a modo de referencia de la salida.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 10,
+    "apartado": "5.5",
+    "texto_literal": "El tratamiento de las comunicaciones por emisora entre los diferentes equipos y miembros, se realizará utilizando el cargo, el equipo, el vehículo y parque, no siendo válido utilizar nombres propios.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 11,
+    "apartado": "5.5",
+    "texto_literal": "El tratamiento al bombero al cargo de la tabla, será el de “punto de control”.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 12,
+    "apartado": "5.5",
+    "texto_literal": "Pautas para los equipos de intervención: Antes de acceder. Instalación presurizada y purgada. Antes de acceder, comprobar que el Checking se ha realizado. El equipo SOS preparado. Los equipos ERA tendrán una presión mínima de 260 bar. Anclaje correcto de la cuerda guía y comprobación de los indicadores de sentido de la cuerda. Observar los gases que salgan del incendio por los huecos, rendijas, ventanas (color, presión, pulsaciones). En el acceso: Abertura mínima de la puerta, observar condiciones del incendio. Proceder a la correcta instalación de la cuerda guía. Utilización correcta del visor térmico. Valorar la entrada con instalación presurizada, si las condiciones del incendio lo requieren.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 16,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 13,
+    "apartado": "5.5",
+    "texto_literal": "Antes de realizar la ventilación, recordar cerrar todas las puertas y huecos para que la expulsión de humo se realice por la salida elegida.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 17,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "PT",
+    "numero": 14,
+    "apartado": "5.5",
+    "texto_literal": "Para facilitar el empleo de la ventilación táctica el equipo 2 del BUP bajará al suelo el ventilador previamente a la realización del resto de tareas encomendadas, pudiendo ser trasladado posteriormente por el BC hasta la ubicación que el Jefe de la intervención estime oportuno.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 17,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 1,
+    "apartado": "6.2",
+    "texto_literal": "Siempre que haya un equipo trabajando en la zona caliente, habrá otro equipo SOS preparado y con nivel I de protección, para socorrerlo en caso de necesidad, o para realizar un relevo urgente.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 18,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 2,
+    "apartado": "6.2",
+    "texto_literal": "Para desplazamientos por el interior de estos locales, se deben utilizar las técnicas de movilidad segura en condiciones de baja o nula visibilidad.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 18,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 3,
+    "apartado": "6.2",
+    "texto_literal": "Equipar con una segunda linterna al personal que intervenga en la zona caliente, como medida adicional de seguridad, dado que la falta de visibilidad es uno de los principales riesgos. Con esta medida aseguramos que en caso de fallo de linterna personal, siempre se dispondrá de otra.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 4,
+    "apartado": "6.2",
+    "texto_literal": "Si el incendio presenta condiciones elevadas de temperatura y carga térmica el equipo que entra a extinguir siempre accederá con la manguera presurizada.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 5,
+    "apartado": "6.2",
+    "texto_literal": "En casos de desorientación o extravío de algún equipo o miembro, se recomienda mantener la calma, buscar un punto de referencia identificable sin alejarse de la ubicación, comunicarse con el controlador, hacer señales con las linternas, activar la alarma de emergencia del bodyguard o cualquier otra medida que sirva para identificar nuestra posición.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 6,
+    "apartado": "6.2",
+    "texto_literal": "Señalizar y balizar las zonas de trabajo.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 7,
+    "apartado": "6.2",
+    "texto_literal": "Respetar las medidas de seguridad en el manejo de herramientas y materiales.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 8,
+    "apartado": "6.2",
+    "texto_literal": "El manejo de la bomba es responsabilidad del BC, por lo tanto todas las conexiones/desconexiones a la misma deben ser realizadas por él.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
+  },
+  {
+    "procop_id": "1.07",
+    "procop_nombre": "Incendios en sótanos, garajes y bajos comerciales",
+    "tipo": "MS",
+    "numero": 9,
+    "apartado": "6.2",
+    "texto_literal": "Los modos repetidor y pasarela en las comunicaciones por emisora son incompatibles, con lo que si se requiere la activación de un terminal en modo repetidor debe desactivarse el modo pasarela de la emisora del vehículo autobomba que esté realizándola.",
+    "version_documento": "1.3 · Febrero 2025",
+    "revision": "2026-11-10.1",
+    "fuente": {
+      "archivo": "procop-1-07-incendios-en-sotanos-garajes-y-bajos-comerciales_v1-3-pdf.pdf",
+      "pagina": 19,
+      "sha256": "272ebd77d8e2ccc7fbf5cdb651306f3229620bf2b47452d453f155e9ebaa08cc"
+    },
+    "activo": true
   }
 ]

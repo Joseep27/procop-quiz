@@ -1,14 +1,29 @@
 import { describe,it,expect } from 'vitest';
 import data from '../src/content.json';
-import { corregir, esErrata, fusionarContenido, iniciales, normalizar, tokens, validarContenido } from '../src/core/text';
+import { completarBancoLocal, corregir, esErrata, fusionarContenido, iniciales, normalizar, tokens, validarContenido } from '../src/core/text';
 const bank=validarContenido(data);
 describe('banco literal y versiones',()=>{
- it('28 viñetas con distribución y referencias exactas',()=>{expect(bank).toHaveLength(28);expect(['1.01:PT','1.01:MS','1.02:PT','1.02:MS'].map(k=>bank.filter(q=>`${q.procop_id}:${q.tipo}`===k).length)).toEqual([9,9,6,4]);expect(bank.find(q=>q.procop_id==='1.02'&&q.tipo==='PT'&&q.numero===1)?.fuente.pagina).toBe(6);});
+ it('102 viñetas con distribución y referencias exactas',()=>{
+  const reparto={'1.01':[9,9],'1.02':[6,4],'1.03':[12,12],'1.05':[7,5],'1.06':[9,6],'1.07':[14,9]};
+  expect(bank).toHaveLength(102);
+  for(const [id,counts] of Object.entries(reparto)){
+   expect(['PT','MS'].map(tipo=>bank.filter(q=>q.procop_id===id&&q.tipo===tipo).length)).toEqual(counts);
+  }
+  expect(bank.find(q=>q.procop_id==='1.02'&&q.tipo==='PT'&&q.numero===1)?.fuente.pagina).toBe(6);
+ });
+ it('añade las preguntas nuevas a un banco local conservando sus revisiones',()=>{
+  const archived={...bank[0],activo:false};
+  const custom={...bank[0],revision:'personal'};
+  const local=[archived,custom,...bank.slice(1,28)];
+  const updated=completarBancoLocal(local,bank);
+  expect(updated).toEqual([...local,...bank.slice(28)]);
+  expect(completarBancoLocal(updated,bank)).toEqual(updated);
+ });
  it('conserva GLP en PT y GNL en MS del PDF',()=>{expect(bank.find(q=>q.procop_id==='1.01'&&q.tipo==='PT'&&q.numero===6)?.texto_literal).toContain('(GLP o GNC)');expect(bank.find(q=>q.procop_id==='1.01'&&q.tipo==='MS'&&q.numero===7)?.texto_literal).toContain('(GNL o GNC)');});
  it('conserva preveer y la ausencia de punto final',()=>{expect(bank.find(q=>q.procop_id==='1.02'&&q.tipo==='PT'&&q.numero===4)?.texto_literal).toContain('preveer');expect(bank.find(q=>q.procop_id==='1.02'&&q.tipo==='PT'&&q.numero===6)?.texto_literal.endsWith('etc.)')).toBe(true);});
  it('rechaza importación incompleta y duplicados',()=>{expect(()=>validarContenido([{}])).toThrow();expect(()=>validarContenido([bank[0],bank[0]])).toThrow();});
  it('impide cambiar silenciosamente una revisión',()=>{expect(()=>fusionarContenido(bank,[{...bank[0],texto_literal:'Cambiar el texto.'}])).toThrow(/Incrementa revision/);});
- it('archiva la revisión anterior y conserva ambas',()=>{const merged=fusionarContenido(bank,[{...bank[0],revision:'nueva',texto_literal:'Nuevo literal.'}]);expect(merged).toHaveLength(29);expect(merged.find(q=>q.revision==='nueva')?.activo).toBe(true);expect(merged.find(q=>q.revision===bank[0].revision&&q.numero===1&&q.tipo==='PT')?.activo).toBe(false);});
+ it('archiva la revisión anterior y conserva ambas',()=>{const merged=fusionarContenido(bank,[{...bank[0],revision:'nueva',texto_literal:'Nuevo literal.'}]);expect(merged).toHaveLength(bank.length+1);expect(merged.find(q=>q.revision==='nueva')?.activo).toBe(true);expect(merged.find(q=>q.revision===bank[0].revision&&q.numero===1&&q.tipo==='PT')?.activo).toBe(false);});
 });
 describe('iniciales',()=>{
  it('incluye todas las palabras, cifras, símbolos y abreviaturas',()=>expect(iniciales('La línea de 45º y Ø 70/45 con GLP y A.T. a 250 litros/min. y 25 mm.')).toBe('L l d 45º y Ø 70/45 c GLP y A.T. a 250 litros/min y 25 mm'));

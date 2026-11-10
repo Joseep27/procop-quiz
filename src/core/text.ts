@@ -43,6 +43,10 @@ export function validarContenido(value:unknown):Question[]{
   return {...q,iniciales:iniciales(q.texto_literal)};
  });
 }
+export function completarBancoLocal(local:Question[],base:Question[]):Question[]{
+ const clavesLocales=new Set(local.map(logicalKey));
+ return [...local,...base.filter(q=>!clavesLocales.has(logicalKey(q)))];
+}
 export function fusionarContenido(base:Question[],incoming:Question[]):Question[]{
  const map=new Map(base.map(q=>[questionKey(q),q]));
  for(const q of incoming){const old=map.get(questionKey(q));if(old&&JSON.stringify([old.procop_id,old.procop_nombre,old.tipo,old.numero,old.apartado,old.texto_literal,old.version_documento,old.revision,old.fuente.archivo,old.fuente.pagina,old.fuente.sha256])!==JSON.stringify([q.procop_id,q.procop_nombre,q.tipo,q.numero,q.apartado,q.texto_literal,q.version_documento,q.revision,q.fuente.archivo,q.fuente.pagina,q.fuente.sha256]))throw new Error(`La versión ${questionKey(q)} ya existe con otro contenido. Incrementa revision.`);map.set(questionKey(q),q);}
