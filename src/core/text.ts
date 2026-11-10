@@ -31,6 +31,12 @@ export function corregir(referencia:string,respuesta:string,tolerancia=false):Co
 }
 export const questionKey=(q:Question)=>`${q.procop_id}:${q.tipo}:${q.numero}@${q.version_documento}#${q.revision}`;
 export const logicalKey=(q:Question)=>`${q.procop_id}:${q.tipo}:${q.numero}`;
+export const textoCompartido=(q:Question)=>q.texto_literal.normalize('NFC').trim().replace(/\s+/g,' ');
+export function otrasCoincidencias(q:Question,activas:Question[]):Question[]{
+ const id=questionKey(q),text=textoCompartido(q);
+ if(!activas.some(candidate=>questionKey(candidate)===id))return [];
+ return activas.filter(candidate=>questionKey(candidate)!==id&&textoCompartido(candidate)===text);
+}
 export function validarContenido(value:unknown):Question[]{
  if(!Array.isArray(value)||!value.length||value.length>2000)throw new Error('Se requiere un array JSON con 1–2000 preguntas.');
  const seen=new Set<string>(),activeLogical=new Set<string>();return value.map((v:unknown)=>{

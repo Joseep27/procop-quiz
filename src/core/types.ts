@@ -8,6 +8,7 @@ export interface Difference { tipo:DiffKind; esperada?:string; escrita?:string; 
 export interface Correction { diferencias:Difference[]; errores:number; erratas:number; exactitud:number; literalidad:number; resultado:'BIEN'|'PARCIAL'|'ERROR'; algoritmo:'tokens-v1' }
 export interface Attempt {
  id:string; fecha:string; dia:string; pregunta_id:string; pregunta:Question; respuesta:string;
+ preguntas_equivalentes?:string[];
  correccion:Correction; ayuda:boolean; pistas:number; numero_intento:number; primera_del_dia:boolean;
  primera_sin_ayuda:boolean; tiempo_ms:number; sesion_id:string; repeticion_de:string|null; tolerancia:boolean;
 }
